@@ -1,0 +1,8 @@
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.DistanceFunctions.dll.config
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.DistanceFunctions.dll
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo.DistanceFunctions\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.DistanceFunctions.dll.config
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo.DistanceFunctions\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.DistanceFunctions.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.DistanceFunctions\Src\Main\obj\Release\Common.Core.Geo.DistanceFunctions.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.DistanceFunctions\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Geo.DistanceFunctions.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.DistanceFunctions\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.DistanceFunctions.dll.config
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.DistanceFunctions\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.DistanceFunctions.dll
