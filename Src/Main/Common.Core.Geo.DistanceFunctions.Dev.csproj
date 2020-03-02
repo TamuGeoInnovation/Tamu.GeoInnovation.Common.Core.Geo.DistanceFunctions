@@ -93,13 +93,6 @@
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
-    <Reference Include="System.Data" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Management" />
-    <Reference Include="System.Web" />
-    <Reference Include="System.Web.Services" />
-    <Reference Include="System.Windows.Forms" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DistanceFunctions\EuclideanDistance.cs" />
@@ -131,21 +124,6 @@
     <Content Include="LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Common.Core.Colors\Src\Main\Common.Core.Colors.Dev.csproj">
-      <Project>{34A8FC48-16D5-4937-8D33-14AE2EE362F4}</Project>
-      <Name>Common.Core.Colors.Dev</Name>
-      <Private>False</Private>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\Common.Core.Drawing\Src\Main\Common.Core.Drawing.Dev.csproj">
-      <Project>{282C24E4-E164-4679-AAD4-E640B30404DC}</Project>
-      <Name>Common.Core.Drawing.Dev</Name>
-      <Private>False</Private>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\Common.Core.ExceptionHandling\Src\Main\Common.Core.ExceptionHandling.Dev.csproj">
-      <Project>{4A553AE2-F5D1-42B6-BE3A-8442DF626EAF}</Project>
-      <Name>Common.Core.ExceptionHandling.Dev</Name>
-      <Private>False</Private>
-    </ProjectReference>
     <ProjectReference Include="..\..\..\Common.Core.Geo.Geometries\Src\Main\Common.Core.Geo.Geometries.Dev.csproj">
       <Project>{E8164C90-2753-46F3-937A-653039318563}</Project>
       <Name>Common.Core.Geo.Geometries.Dev</Name>
@@ -159,11 +137,6 @@
     <ProjectReference Include="..\..\..\Common.Core.Geo.Units\Src\Main\Common.Core.Geo.Units.Dev.csproj">
       <Project>{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}</Project>
       <Name>Common.Core.Geo.Units.Dev</Name>
-      <Private>False</Private>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\Common.Core.Security\Src\Main\Common.Core.Security.Dev.csproj">
-      <Project>{D46E3A34-D2A4-4617-A13D-39E787C48C15}</Project>
-      <Name>Common.Core.Security.Dev</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\..\..\Common.Core.Utils\Src\Main\Common.Core.Utils.Dev.csproj">
